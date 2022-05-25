@@ -1,0 +1,9 @@
+.date-container
+{
+        display: flex;
+        font-family:  'EB Garamond', serif;
+        font-size: 23px;
+        justify-content: center;
+        align-items: center;
+        border-bottom: 1px solid green;
+}

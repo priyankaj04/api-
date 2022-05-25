@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+
+.city
+{
+        display: flex;
+        justify-content: space-around;
+        font-family: 'Cormorant Garamond', serif;
+        font-size: 23px;
+        width: 250px;
+        font-weight: bold;
+        align-items: center;
+        border-bottom: 1px solid green;
+}
+
+.temperature
+{
+        font-family:  'EB Garamond', serif;
+        font-weight: normal;
+}

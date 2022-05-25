@@ -1,0 +1,19 @@
+.topbar
+{
+        display: flex;
+        justify-content: flex-end;
+        height: 70px;
+}
+
+.datetime
+{
+        justify-content: center;
+        text-align: center;
+        display: flex;
+}
+
+.top-container
+{
+        display: flex;
+        box-shadow: 5px 1px 3px 1px rgb(123, 202, 123);
+}
